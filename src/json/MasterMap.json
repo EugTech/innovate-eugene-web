@@ -1,0 +1,1511 @@
+{
+  "Assets": [
+    {
+      "Asset Type": "Public Places",
+      "Name": "Downtown Riverfront Park",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Open park area that is slated to be revamped in the next few years",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Public Places",
+      "Name": "Kesey Square",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Brick plaza in the center of downtown Eugene",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Public Places",
+      "Name": "Park Blocks",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Buzzing urban plaza in the heart of downtown",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Public Places",
+      "Name": "Eugene Public Library Plaza",
+      "Address": "100 W 10th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Meeting space for local organizations",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Public Places",
+      "Name": "5th Street Public Market",
+      "Address": "296 E 5th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "300",
+      "Notes": "Premier open-air shopping destination situated in the heart of downtown Eugene",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Public Places",
+      "Name": "Eugene Saturday Market",
+      "Address": "126 E 8th Ave",
+      "City": "Eugene ",
+      "Zip ": "97401",
+      "Notes": "Weekly market in a park features wares by 200+ local artisans, plus food vendors & live music",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO Continuing and Professional Education",
+      "Address": "975 High St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "110",
+      "Notes": "Offer learning programs, professional development, and conference services to the Eugene community outside a traditional university setting",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "Lane Community College Mary Spilde Downtown Center",
+      "Address": "101 W 10th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Provide comprehensive, accessible, quality, learning-centered educational opportunities that promote student success",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "Eugene Barista School",
+      "Address": "400 E 19th Ave",
+      "City": "Eugene",
+      "Zip ": "97405",
+      "Notes": "Barista Basics Classes, Espresso Drink Making 101, Barista Camps, Individual Barista Lessons and Coffee Business Consulting",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO Brain Develpoment Lab",
+      "Address": "1227 University of Oregon",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Use brain imaging (EEG and MRI) in children and adults to understand how successful interventions may be changing brains",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO Institute of Neuroscience",
+      "Address": "1254 University of Oregon",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Tasked with exploring fundemental questions of neuroscience",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "Center for Medical Education and Research",
+      "Address": "750 E 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Peace Health Clinical Research center in conjunction with the U of O and Oregon Research Institute",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO Labor Education and Research Center",
+      "Address": "1675 Agate St",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Integrating education, research, and public service, to ensure that workers have the skills and support that they need to participate meaningfully in their workplaces and communities",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO Lundquist College of Business",
+      "Address": "1208 University St",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "The University of Oregon's Nationally recognized business program",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "Northwest Water and Energy Education Institute",
+      "Address": "101 W 10th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Part of Lane Community College that provides degrees in the energy and water industry throughout the Pacific Northwest and California",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "Pacific University MSW and Teacher Education",
+      "Address": "40 E Broadway ",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "250",
+      "Notes": "Satellite campus of Pacific University which offers undergraduate and graduate programs in education",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "University of Oregon Community Education Program",
+      "Address": "1277 University St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Division of the UO that allows community members to take classes at the university wthout formal admittance",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "University of Oregon School of Music and Dance",
+      "Address": "961 E 18th Ave",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Offers degrees up to the Doctorate level in music (masters in dance), with broad ranges of study ",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "Northwest Christian University",
+      "Address": "828 E 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Private, Christian liberal arts college that offers programs in liberal arts & Bible, and professional studies",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "The American Denturist College",
+      "Address": "1241 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Distance dental education program, preparing students for immediate success and productivity in the workforce",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "LanguageConvo",
+      "Address": "44 W Broadway ",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "206",
+      "Notes": " Provide language learning services and jobs for tutors around the world",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "Gutenberg College",
+      "Address": "1883 University St",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Private, four-year Great Books college",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "LIFE! Lutheran School",
+      "Address": "710 E 17th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Academic and spiritual instruction programs for children 3 through 8",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO School of Law",
+      "Address": "1515 Agate St",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "The University of Oregon's public law school",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "IBS School of Cosemetology and Massage",
+      "Address": "388 W 7th Ave",
+      "City": "Eugene ",
+      "Zip ": "97401",
+      "Notes": "Prepare students to excel in the field of beauty by offering full time and part time courses in Hair Design, Esthetics, Nail Technology, Barbering, and Massage",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO Architecture",
+      "Address": "1206 University St",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "The University of Oregon's architecture program",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "UO Center for Applied Second Language Studies",
+      "Address": "5290 University St",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Unit ": "201",
+      "Notes": "One of sixteen National Foreign Language Resource Centers that work to increase the nation�s capacity for language teaching and learning",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Education",
+      "Name": "South Eugene High School",
+      "Address": "400 E 19th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Eugene public high school",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "PeaceHealth Sacred Heart Medical Center University District",
+      "Address": "1255 Hilyard St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Specialty services hospital with an emergency department",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Eugene Urgent Care",
+      "Address": "598 E 13th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Exams, x-ray, lab testing, physical therapy, and pharmacy offered",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Wild Rose Medical Clinic",
+      "Address": "401 East 10th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Primary Care physicians",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Applegate Medical Clinic",
+      "Address": "689 E 19th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Primary care physicians offering preventative care, physicals, health screenings, and minor surgeries",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Trillium Community Health Plan",
+      "Address": "1800 Millrace Dr",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Coordinated care organization (CCO) partnered with physical, behavioral, and oral health providers on behalf of the Oregon Health Plan",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "University of Oregon Health Center",
+      "Address": "1590 E 13th Ave",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Primary care, mental health, clinical health, and faculty and staff services",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Looking Glass Counseling Program",
+      "Address": "260 E 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Offers services aimed at solving challenges related to educational deficits, behavioral health issues, drug addiction, and homelessness",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Back to Health Center",
+      "Address": "1524 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "100",
+      "Notes": "Chiropractic, massage, and rehabilitation services offered",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Department of Veteran's Affairs Mental Health Outreach Facility",
+      "Address": "211 E 7th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "116",
+      "Notes": "Provides mental health services to current and past service men and women",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Lane County Public Health",
+      "Address": "151 W 7th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "310",
+      "Notes": "Local government organization tasked with improving overall community health",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "American Red Cross",
+      "Address": "440 E Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Provides relief and recovery services, health and safety training, and maintains a safe and stable blood supply for patients in need",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Oregon Commission for the Blind",
+      "Address": "541 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "408",
+      "Notes": "Provides assistance to those who are legally blind, including: vocational rehabilitation, business enterprise, and youth/transition services",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "University of Oregon Early Intervention Program",
+      "Address": "901 E 18th Ave",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Improves educational and therapudic opportunities for children that are at risk of falling behind and are disabled",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Womenspace",
+      "Address": "1577 Pearl St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "200",
+      "Notes": "Provides emergency services, support groups, community education, and legal advocacy to survivors of domestic violence",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Lane County Health and Human Services",
+      "Address": "125 E 8th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Local government organization tasked with improving overall community health and working with community partners",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Lila Peer Support Club",
+      "Address": "990 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Provides mental health survivors with a safe place to gather for socialization, an opportunity for peer support, and various classes, groups, and activities",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Senior and Disability Services",
+      "Address": "1015 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Advocates for seniors and persons with disabilities to provide to them quality services and information that promote dignity, independence, and choice",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Stand for Children",
+      "Address": "1192 Lawrence St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Focused on ensuring all students receive a high quality, relevant education, especially those who are overlooked because of their skin color, zip code, first language, or disability",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Lane County Women Infants and Children",
+      "Address": "151 W 7th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "A Special Supplemental Nutrition Program for Women, Infants and Children WIC's goal is to improve health outcomes and influence lifetime nutrition for families",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Sexual Assault Support Services of Lane County",
+      "Address": "591 W 19th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Provides outreach, advocacy and support to survivors of sexual violence and their partners, families and friends throughout Eugene-Springfield and the rest of Lane County",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "The Mentor Network",
+      "Address": "859 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "National network of local health and human services providers in 36 states offering an array of quality, community-based services to adults and children ",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Oregon Community Programs",
+      "Address": "1170 Pearl Street",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Private, non-profit corporation that promotes a positive family life through training, consulting, and outreach services",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Bridgeway House",
+      "Address": "555 E 15th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Serves the needs of children with autism and related abilities while educating and supporting their families",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Lane Workforce Partnership",
+      "Address": "1401 Willamette St ",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "2",
+      "Notes": "Invests in aligning economic, education, and training systems based on the needs of local businesses and communities",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Willamette Family Inc",
+      "Address": "195 W 12th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Providing readily accessible, quality mental health and substance abuse/addiction care",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "White Bird",
+      "Address": "350 E 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Innovative outpatient services for adults who need alcohol and/or drug abuse treatment as well as mental health services",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Healthcare & Social Services",
+      "Name": "Leukemia and Lymphoma Society",
+      "Address": "115 W 8th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "206",
+      "Notes": "Largest funder nationally of cutting-edge research to advance cures for cancer",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "#instaballet",
+      "Address": "1430 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "390",
+      "Notes": "A new, interactive, fun way to experience ballet, aims to include the audience in the making of a ballet by using audience driven ideas to choreograph on professional dancers",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Printmakers",
+      "Address": "1328 W 2nd Ave",
+      "City": "Eugene",
+      "Zip ": "97402",
+      "Notes": "A non-profit arts organization that furthers the knowledge, practice and understanding of printmaking and book arts",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Actors Cabaret of Eugene",
+      "Address": "966 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "A non-profit community theatre organization to create the ideal that theatre is an experience everyone, regardless of age, ethnicity, physical status, or previous theatrical experience",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Chinese-American Benevolent Association",
+      "Address": "392 Rustic Place",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "A non-profit organization based that promotes education, arts, and cultural programs related to Chinese, Chinese Americans, and Asian Americans",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Children's Film Festival",
+      "Address": "435 Lincoln St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "A non-profit organization in Eugene, Oregon designed to help educate and inspire the entire surrounding community",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "LaVerne Krause Gallery",
+      "Address": "5232 University St",
+      "City": "Eugene",
+      "Zip ": "97405",
+      "Notes": "A student gallery located in Lawrence Hall Shows exhibit talented student artists throughout the year",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Downtown Initiative for Visual Art",
+      "Address": "280 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "A voice for the arts Bringing together artists and business and civic leaders to create a visual art destination",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Sattva Gallery",
+      "Address": "1801 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Unit ": "110",
+      "Notes": "A well-established business in Oregon since the 1990s Representing American fine crafts",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Cherry Blossom Musical Arts",
+      "Address": "1885 Friendly St",
+      "City": "Eugene",
+      "Zip ": "97402",
+      "Notes": "Art music meets dance, juggling and mayhem-vaudeville style Cherry Blossom Musical Arts",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Chamber Music Amici",
+      "Address": "1590 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "550",
+      "Notes": "Chamber music ensemble resident at the Richard E Wildish Community Theatre in Springfield",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Community Center for the Performing Arts",
+      "Address": "291 W 8th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Community center for the performing arts",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Ballet Fantastique",
+      "Address": "960 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Contemporary ballet company featuring premier performances and a dance school",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Opera",
+      "Address": "1590 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Conventional and contemporary opera productions at the Hult Center",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Youth Ballet",
+      "Address": "1590 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Create, perform, educate and inspire through the art of Dance, foster cultural collaborations, and increase access to the Arts",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "DanceAbility International",
+      "Address": "576 Olive St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Creates opportunities for people with and without disabilities to dance and move together",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "ArtCity Eugene",
+      "Address": "3338 Storey Blvd",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Cultivates an art ecosystem that empowers artists to grow their practice, community members to engage creatively",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Arts and Business Alliance of Eugene",
+      "Address": "1401 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Enriching Eugene through strong arts and business partnerships",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Broadway Metro",
+      "Address": "43 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Foreign, independent, and classic films movie theatre and limited performing arts",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Bijou Arts Cinema",
+      "Address": "492 E 13th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Foreign, independent, and classic films movie theatre",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Maude Kerns Art Center",
+      "Address": "1910 E 15th Ave",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Founded by a group of local artists, the center is a non-profit community center for arts, with a focus on educational programs",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Ballet Company",
+      "Address": "1590 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Fully professional ballet company and dance school",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Symphony",
+      "Address": "115 W 8th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "115",
+      "Notes": "Fully professional symphony orchestra presenting annual classical, pops, and community engagement performances",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Asian Celebration",
+      "Address": "796 W 13th Ave",
+      "City": "Eugene",
+      "Zip ": "97402",
+      "Notes": "Programs celebrating Asian and Asian-American cultural diversity in the community",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "City of Eugene Cultural Services",
+      "Address": "1 Eugene Ctr",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Provides responsible and catalytic leadership to support the public�s vision for a thriving arts and cultural sector that contributes to the community�s social and economic well-being",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Cinema Pacific Film Festival",
+      "Address": "1430 Johnson Ln",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "Public screenings of media art, guest artist presentations, and media art installations at the Jordan Schnitzer Museum of Art and oversees the online and onsite activities of the James Blue Project",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "510 Oak Art Studio",
+      "Address": "510 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Satelite art studio of the University of Oregon designed to connect the community to the campus art department",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "DisOrient Asian American Film Festival (Oak)",
+      "Address": "1358 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "3",
+      "Notes": "The premiere Asian American, social justice film festival of Oregon",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "DisOrient Asian American Film Festival (Willamette)",
+      "Address": "1430 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "30",
+      "Notes": "The premiere Asian American, social justice film festival of Oregon",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Concert Choir",
+      "Address": "1590 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "To engage, inspire and enrich the community through performance of choral masterworks, diverse artistic experiences, and educational outreach",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene International Film Festival",
+      "Address": "1430 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "159",
+      "Notes": "To have become a major, respected element in the filmmaking process and development of the literary works behind them",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Eugene Peace Choir",
+      "Address": "1272 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "402",
+      "Notes": "To support peace, social justice, and environmental sustainability through singing",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "arts",
+      "Name": "Jordan Schnitzer Museum of Art",
+      "Address": "1430 Johnson Ln",
+      "City": "Eugene",
+      "Zip ": "97403",
+      "Notes": "University art museum with a caf� and store Known for its Asian and Northwest pieces since 1933",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "3Cinteractive",
+      "Address": "940 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "510",
+      "Notes": "3Cinteractive is redefining mobile messaging",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Avant Assessment",
+      "Address": "940 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "530",
+      "Notes": "Avant focuses on assessing real-world language proficiency",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "CAWOOD",
+      "Address": "1200 High St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "200",
+      "Notes": "CAWOOD is a full-service marketing agency",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "IRIS Educational Media",
+      "Address": "258 E. 10th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Changing lives through active learning",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Continu Data Services",
+      "Address": "800 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "B50",
+      "Notes": "Contin? assists companies in making informed business decisions and sustaining effectiveness in the design, implentation, and operation of their cyber risk management program",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Light at Play",
+      "Address": "1045 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Creating interactive, data-driven experiences through the fusion of software and lighting design",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "IDX LLC",
+      "Address": "100 E Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Customizable Home Search & Lead Management Solutions\n",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Catalyst Technology Group",
+      "Address": "132 E Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Data analayis and decision making through IT consulting",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Artsdigital.co",
+      "Address": "945 Olive St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Marketing design studio",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Inseego",
+      "Address": "180 West 8th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Enterprise SaaS, IoT & Mobile Solutions",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "First Foundry",
+      "Address": "940 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "510",
+      "Notes": "Building highly scalable real-time technology products with cutting-edge presentation patterns for mobile, web, desktop, and MR/AR/VR interaction",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "multiVRse VR gaming LLC",
+      "Address": "1374 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "6",
+      "Notes": "Video game design studio",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Global Focus Digital Media",
+      "Address": "132 E Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "423",
+      "Notes": "Full-service Web site development company",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "EDX Wireless",
+      "Address": "132 E Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "590",
+      "Notes": "Global leader and pioneer in wireless network design and planning tool technology",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "InterVision Media",
+      "Address": "44 West Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "426",
+      "Notes": "InterVision is a leading developer of technology solutions for research, healthcare, e-learning and business",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Lunar Logic",
+      "Address": "115 W 8th St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "300",
+      "Notes": "Lunar Logic is a technology firm that helps businesses make money online",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Mad Otter Games",
+      "Address": "40 E Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "210",
+      "Notes": "Mad Otter is an independent games developer which is determined to create quality games through active collaboration with its player community",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Mindbox Studios",
+      "Address": "942 Olive St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Mindbox works with visionaries and innovators creating custom web and mobile apps changing the way their industries work",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Moonshadow Mobile Inc",
+      "Address": "859 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "410",
+      "Notes": "Improve the way people understand, visualize, analyze and work with big data",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "ORCAS",
+      "Address": "260 East 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Health innovation and technology company that creates mobile self-management interventions designed to improve physical and emotional well-being",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Local Food Marketplace",
+      "Address": "44 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Comprehensive, flexible platform helps customers plan, sell, and distribute local food",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Palo Alto Software",
+      "Address": "44 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "426",
+      "Notes": "Provider of small business tools worldwide with the single goal of helping other small businesses grow and become successful",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Partnered Solutions IT",
+      "Address": "58 W 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "A",
+      "Notes": "Provides continuity and management solutions that optimize efficiency and mitigate risk for businesses",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Presidio",
+      "Address": "44 West Broadway Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "208",
+      "Notes": "A leading North American IT solutions provider focused on Digital Infrastructure, Business Analytics, Cloud, Security & Emerging solutions",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Ruby Porter Marketing and Design",
+      "Address": "58 W 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "C",
+      "Notes": "A full service digital advertising agency",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "SentinelOne",
+      "Address": "975 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "SentinelOne is the only platform that defends every endpoint against every type of attack, at every stage in the threat lifecycle",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Quote Software",
+      "Address": "232 W 5th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "ConstructConnect provides the largest network, the most robust project data, and industry-leading tools for mechanical estimating",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Stormwoods LLC",
+      "Address": "541 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "307E",
+      "Notes": "Stormwoods LLC is a dedicated to world class project management and software development",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Cognitopia Software",
+      "Address": "99 W 10th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "397",
+      "Notes": "The Cognitopia Platform is a suite of web-based platforms that help people organize their lives",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Turell Group",
+      "Address": "800 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "770",
+      "Notes": "Turell Group excels at connecting you to your customers",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Pipeworks Studio",
+      "Address": "133 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Video Game studio",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Attic Media Inc",
+      "Address": "132 E Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "632",
+      "Notes": "Media company specializing in visual storytelling",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Funk/Levis & Associates",
+      "Address": "931 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Logo design, brand development, public relations and marketing agency",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Emberex Web Solutions",
+      "Address": "220 E 11th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "6",
+      "Notes": "Build software for researchers and educators",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Click Refresh",
+      "Address": "44 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "206",
+      "Notes": "Design, build and maintain responsive websites",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Freeflow Digital",
+      "Address": "315 West Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "300",
+      "Notes": "Develop digital products using leading technologies",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Concentric Sky",
+      "Address": "1045 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "We excel in building end-to-end solutions",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Extanto Technology",
+      "Address": "132 East Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "103",
+      "Notes": "Perform content audits and linguistic analyses for language pertaining to Diversity, Equity, and Inclusion ",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Analytic Spot",
+      "Address": "940 Willamette",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "300",
+      "Notes": "Provide visibility into how users are learning, how quickly they're progressing, and where others can help them on this journey",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Twenty Ideas",
+      "Address": "940 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "300",
+      "Notes": "Shape ideas into elegant solutions using technology and design",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "InSilico",
+      "Address": "44 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "226",
+      "Notes": "Specialize in building effective platforms to provide real-world solutions",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "bell+funk",
+      "Address": "44 West Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "219",
+      "Notes": "Agency that specializes in research, branding, design, and marketing",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "DIGI Studios",
+      "Address": "1283 Lincoln St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Website and e commerce graphic design and branding solutions",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Alacrity Services",
+      "Address": "360 E 10th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "400",
+      "Notes": "Leading supplier of home restoration and repair services since 1999",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "FeynmanGroup",
+      "Address": "1177 Pearl Street",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Feynman Group helps businesses prosper through their use of the internet and associated technologies",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "tech",
+      "Name": "Zynga",
+      "Address": "576 Olive St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "205",
+      "Notes": "Zynga is a leading developer of the world�s most popular social games",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Downtown Eugene Inc",
+      "Address": "1401 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "To create a prosperous and inviting downtown, collaborating on strategies to advance a thriving mix of commercial and residential uses",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Chamber of Commerce",
+      "Address": "1401 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "To serve as a catalytic leader in creating a vibrant and diverse economy that drives economic opportunity and well-being",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Mindworks",
+      "Address": "207 E 5th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "220",
+      "Notes": "A collaborative community of entrepreneurs, creatives, freelancers, and doers",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Willamette Farm & Food Coalition",
+      "Address": "150 Shelton Mcmurphey Blvd",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Facilitates and supports the development of a secure, sustainable, and inclusive food system in Lane County, Oregon",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Family YMCA",
+      "Address": "2055 Patterson St",
+      "City": "Eugene",
+      "Zip ": "97405",
+      "Notes": "Strengthens our diverse community by offering programs that build a healthy spirit, mind and body for all",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Perugino",
+      "Address": "767 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Provides meals, coffee, drinks, as well as doubling as an art gallery which carries products from a variety local businesses",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "The Barn Light",
+      "Address": "924 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "As a coffee shop, The Barn Light will strive to be the best specialty coffee business in town, where one can get an excellent cup of coffee anytime, day or night",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Townshend's Tea Company",
+      "Address": "41 W Broadway Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "The world�s most meticulous and well-traveled tea buyers are able to form on-the-ground relationships with the families who farm and produce our teas",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Brails Restaurant",
+      "Address": "1689 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "To share our love of coffee with people of Eugene with a humble approach",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Level Up Arcade",
+      "Address": "1290 Oak St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "A place for entertainment and food for friends, families, and visitors",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Full City Coffee Roasters (Pearl St Location)",
+      "Address": "842 Pearl St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "To offer coffees that are consistent in quality while possessing a broad spectrum of characteristics",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Full City Coffee Roasters (E 13th Location)",
+      "Address": "295 E 13th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "To offer coffees that are consistent in quality while possessing a broad spectrum of characteristics",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Farmers Market",
+      "Address": "150 Shelton McMurphey Blvd",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "204",
+      "Notes": "To preserve and strengthen the local farm and food economy by providing vibrant public marketplaces for farmers, food artisans and our community",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Downtown Athletic Club",
+      "Address": "999 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "To offer expansive workout areas and various equipment, fine dining, a sports headquarters featuring numerous local beer and cocktail options, and special event services",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Track Town Swing Club",
+      "Address": "1626 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Community swing dancing classes",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Vero Espresso",
+      "Address": "205 E 14th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Local coffee shop that is popular among college students",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "The Bier Stein",
+      "Address": "1591 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Wide beer selection that includes local beers as well as on tap options",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Game Pub",
+      "Address": "881 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Place to drink and play video games with friends and strangers alike",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "IRL Social Networking Places",
+      "Name": "Falling Sky Brewing House",
+      "Address": "1334 Oak Alley",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Mellow brewery offering hearty deli & pub fare, as well as its drafts & local spirits",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Innovation Cultivators",
+      "Name": "Rain Eugene",
+      "Address": "942 Olive St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "RAIN is partnered with two accelerators to create a collaborative environment to assist entrepreneurs in establishing viable companies that generate jobs, wealth and opportunities for the region",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Innovation Cultivators",
+      "Name": "FertiLab Thinkubator",
+      "Address": "44 W 7th Ave",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Pre-Accelerator and Coworking Space Made for Entrepreneurs",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Innovation Cultivators",
+      "Name": "Oregon Small Business Development Center Network",
+      "Address": "1445 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "5",
+      "Notes": "19 centers assist small businesses throughout Oregon with advising, classes and access to the resources they need to be successful",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Innovation Cultivators",
+      "Name": "Lane Small Business Development Center",
+      "Address": "101 W 10th Ave ",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "304",
+      "Notes": "Offers a multitude of support services for small businesses, from start-up to established, from small to medium, with 1-500 employees and up to 25 million in sales",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Innovation Cultivators",
+      "Name": "SCORE Mentors Willamette",
+      "Address": "1401 Willamette St",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Notes": "Provide objective confidential free mentoring and mostly free education to small business and micro-business owners and entrepreneurs",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    {
+      "Asset Type": "Innovation Cultivators",
+      "Name": "CodeChops",
+      "Address": "44 W Broadway",
+      "City": "Eugene",
+      "Zip ": "97401",
+      "Unit ": "206",
+      "Notes": "A place where micro & small businesses, entrepreneurs, and StartUps can run and grow their companies",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    }
+  ],
+  "AssetTypes": [
+    {
+      "Name": "Public Places",
+      "Study Tags": [
+        "Public Places",
+        "Education",
+        "Healthcare & Social Services",
+        "Arts",
+        "Tech",
+        "IRL Social Networking Places",
+        "Innovation Cultivators"
+      ]
+    },
+    { "Name": "Education", "Study Tags": ["recdlIbiSUuBXRdq4"] },
+    {
+      "Name": "Healthcare & Social Services",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    { "Name": "Arts", "Study Tags": ["recdlIbiSUuBXRdq4"] },
+    { "Name": "Tech", "Study Tags": ["recdlIbiSUuBXRdq4"] },
+    {
+      "Name": "IRL Social Networking Places",
+      "Study Tags": ["recdlIbiSUuBXRdq4"]
+    },
+    { "Name": "Innovation Cultivators", "Study Tags": ["recdlIbiSUuBXRdq4"] }
+  ],
+  "EntityTypes": [
+    { "Name": "501c3 (state)", "Field 5": ["recdlIbiSUuBXRdq4"] },
+    { "Name": "501c3 (federal)", "Field 5": ["recdlIbiSUuBXRdq4"] },
+    { "Name": "LLC", "Field 5": ["recdlIbiSUuBXRdq4"] },
+    { "Name": "Program", "Field 5": ["recdlIbiSUuBXRdq4"] },
+    { "Name": "DBA", "Field 5": ["recdlIbiSUuBXRdq4"] }
+  ]
+}

@@ -7,14 +7,24 @@
 
 import React from 'react';
 import PropTypes from 'prop-types';
-import { StaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql } from 'gatsby';
+import styled from 'styled-components';
 
 import Header from './header';
+import Filter from './filter';
 import './layout.css';
 
-const Layout = ({ children }) => (
-  <StaticQuery
-    query={graphql`
+const StyledLayout = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  grid-gap: 1rem;
+  margin: 0 auto;
+  max-width: 1200px;
+`;
+
+const Layout = ({ children }) => {
+  const data = useStaticQuery(
+    graphql`
       query SiteTitleQuery {
         site {
           siteMetadata {
@@ -22,29 +32,23 @@ const Layout = ({ children }) => (
           }
         }
       }
-    `}
-    render={data => (
-      <>
-        <Header siteTitle={data.site.siteMetadata.title} />
-        <div
-          style={{
-            margin: `0 auto`,
-            maxWidth: 960,
-            padding: `0px 1.0875rem 1.45rem`,
-            paddingTop: 0,
-          }}
-        >
-          <main>{children}</main>
-          <footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
-          </footer>
-        </div>
-      </>
-    )}
-  />
-);
+    `
+  );
+  return (
+    <>
+      <Header siteTitle={data.site.siteMetadata.title} />
+      <StyledLayout>
+        <Filter />
+        <main>{children}</main>
+        <footer>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        </footer>
+      </StyledLayout>
+    </>
+  );
+};
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
